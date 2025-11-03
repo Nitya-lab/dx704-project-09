@@ -1,0 +1,9 @@
+
+Acknowledgements:
+I completed this assignment on my own.
+
+Libraries Used:
+none
+
+Generative AI Tools:
+none except for part 7
